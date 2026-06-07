@@ -6,7 +6,7 @@ st.set_page_config(page_title="DublinBikes Analytics", layout="wide")
 
 df = pd.read_csv("station_summary.csv")
 
-st.title("🚲 DublinBikes Station Utilisation Dashboard")
+st.title("DublinBikes Station Utilisation Dashboard")
 st.markdown("Open data from Smart Dublin / Dublinked")
 
 col1, col2, col3 = st.columns(3)
