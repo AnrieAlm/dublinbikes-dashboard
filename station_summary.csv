@@ -1,0 +1,116 @@
+STATION_ID,NAME,ADDRESS,LATITUDE,LONGITUDE,BIKE_STANDS,total_readings,avg_available_bikes,avg_available_stands,avg_utilisation_rate
+1,Smithfield North,"Smithfield North, Dublin 7",53.3496,-6.2782,30,28449,24.4,5.6,0.88
+2,Parnell Square North,"Parnell Square North, Dublin 1",53.3535,-6.265,20,21353,5.4,14.6,0.68
+3,Clonmel Street,"Clonmel Street, Dublin 2",53.336,-6.262,33,31632,18.2,14.8,0.73
+4,Avondale Road,"Avondale Road, Dublin 6",53.324,-6.264,20,15128,17.6,2.4,0.6
+5,James Street East,"James Street East, Dublin 8",53.343,-6.287,30,16603,6.2,23.8,0.74
+6,Mountjoy Square East,"Mountjoy Square East, Dublin 1",53.356,-6.258,30,6624,24.9,5.1,0.71
+7,Christchurch Place,"Christchurch Place, Dublin 8",53.343,-6.271,20,31982,14.5,5.5,0.9
+8,Grantham Street,"Grantham Street, Dublin 8",53.334,-6.265,30,21263,22.9,7.1,0.97
+9,Pearse Street,"Pearse Street, Dublin 2",53.344,-6.252,30,7537,4.8,25.2,0.73
+10,Dame Street,"Dame Street, Dublin 2",53.344,-6.268,24,19577,19.2,4.8,0.98
+11,York Street East,"York Street East, Dublin 2",53.338,-6.264,32,19915,11.8,20.2,0.86
+12,Excise Walk,"Excise Walk, Dublin 1",53.347,-6.262,40,48255,10.0,30.0,0.98
+13,Fitzwilliam Square West,"Fitzwilliam Square West, Dublin 2",53.336,-6.251,30,23292,24.5,5.5,0.75
+14,Portobello Road,"Portobello Road, Dublin 8",53.33,-6.268,30,38384,11.1,18.9,0.81
+15,St James Hospital,"St James Hospital, Dublin 8",53.339,-6.295,40,6808,21.3,18.7,0.38
+16,Parnell Street,"Parnell Street, Dublin 1",53.352,-6.265,20,22118,3.8,16.2,0.96
+17,Hardwicke Street,"Hardwicke Street, Dublin 1",53.357,-6.264,24,12104,7.3,16.7,0.86
+18,Charlemont Street,"Charlemont Street, Dublin 2",53.3306,-6.2603,40,27654,23.5,16.5,0.96
+19,Herbert Place,"Herbert Place, Dublin 2",53.334,-6.245,30,38516,17.8,12.2,0.66
+20,High Street,"High Street, Dublin 8",53.343,-6.275,30,42787,5.0,25.0,0.68
+21,Station 21,"Dublin Street 21, Dublin 2",53.3456,-6.3077,30,39073,13.3,16.7,0.52
+22,Station 22,"Dublin Street 22, Dublin 8",53.3289,-6.2437,50,40287,44.6,5.4,0.66
+23,Station 23,"Dublin Street 23, Dublin 1",53.3557,-6.3022,33,17912,23.4,9.6,0.45
+24,Station 24,"Dublin Street 24, Dublin 7",53.3212,-6.2903,40,9585,15.1,24.9,0.35
+25,Station 25,"Dublin Street 25, Dublin 8",53.3211,-6.2921,50,48475,30.7,19.3,0.77
+26,Station 26,"Dublin Street 26, Dublin 4",53.3418,-6.2902,40,24681,32.5,7.5,0.58
+27,Station 27,"Dublin Street 27, Dublin 8",53.3524,-6.3094,24,24376,8.5,15.5,0.34
+28,Station 28,"Dublin Street 28, Dublin 4",53.3369,-6.285,24,17572,13.1,10.9,0.67
+29,Station 29,"Dublin Street 29, Dublin 4",53.3241,-6.2758,30,16405,19.6,10.4,0.45
+30,Station 30,"Dublin Street 30, Dublin 6",53.3441,-6.2374,50,24723,30.3,19.7,0.74
+31,Station 31,"Dublin Street 31, Dublin 1",53.3414,-6.2224,33,18774,10.8,22.2,0.35
+32,Station 32,"Dublin Street 32, Dublin 4",53.3421,-6.2354,40,43009,17.5,22.5,0.72
+33,Station 33,"Dublin Street 33, Dublin 8",53.3431,-6.2466,20,49277,9.1,10.9,0.63
+34,Station 34,"Dublin Street 34, Dublin 2",53.3291,-6.284,20,36010,5.4,14.6,0.6
+35,Station 35,"Dublin Street 35, Dublin 8",53.3547,-6.2758,33,48178,23.3,9.7,0.8
+36,Station 36,"Dublin Street 36, Dublin 2",53.3534,-6.2954,30,38780,4.2,25.8,0.35
+37,Station 37,"Dublin Street 37, Dublin 8",53.3468,-6.2468,50,20392,6.3,43.7,0.63
+38,Station 38,"Dublin Street 38, Dublin 8",53.3229,-6.2529,40,19722,26.2,13.8,0.53
+39,Station 39,"Dublin Street 39, Dublin 8",53.3298,-6.2684,30,36138,3.2,26.8,0.75
+40,Station 40,"Dublin Street 40, Dublin 1",53.3475,-6.2902,30,9772,17.9,12.1,0.59
+41,Station 41,"Dublin Street 41, Dublin 6",53.3292,-6.3071,30,30164,17.0,13.0,0.29
+42,Station 42,"Dublin Street 42, Dublin 8",53.3307,-6.291,40,20989,19.8,20.2,0.67
+43,Station 43,"Dublin Street 43, Dublin 8",53.3326,-6.251,33,11985,27.9,5.1,0.79
+44,Station 44,"Dublin Street 44, Dublin 8",53.3384,-6.2862,24,19341,17.6,6.4,0.79
+45,Station 45,"Dublin Street 45, Dublin 6",53.3425,-6.2864,40,8291,20.6,19.4,0.79
+46,Station 46,"Dublin Street 46, Dublin 2",53.3559,-6.2741,24,12953,13.1,10.9,0.96
+47,Station 47,"Dublin Street 47, Dublin 1",53.3404,-6.3018,20,41629,12.7,7.3,0.38
+48,Station 48,"Dublin Street 48, Dublin 6",53.3261,-6.2956,50,34004,29.4,20.6,0.61
+49,Station 49,"Dublin Street 49, Dublin 6",53.3439,-6.2754,40,40905,20.2,19.8,0.65
+50,Station 50,"Dublin Street 50, Dublin 8",53.3412,-6.2226,20,15430,9.1,10.9,0.41
+51,Station 51,"Dublin Street 51, Dublin 4",53.3488,-6.2486,40,21203,11.3,28.7,0.71
+52,Station 52,"Dublin Street 52, Dublin 6",53.3507,-6.2794,30,23173,23.8,6.2,0.61
+53,Station 53,"Dublin Street 53, Dublin 8",53.3263,-6.3097,50,22996,30.8,19.2,0.47
+54,Station 54,"Dublin Street 54, Dublin 7",53.3305,-6.2649,24,23725,10.8,13.2,0.61
+55,Station 55,"Dublin Street 55, Dublin 8",53.3565,-6.2317,30,10280,25.2,4.8,0.58
+56,Station 56,"Dublin Street 56, Dublin 2",53.3403,-6.2921,30,20155,5.6,24.4,0.72
+57,Station 57,"Dublin Street 57, Dublin 1",53.3416,-6.2399,40,32188,9.7,30.3,0.6
+58,Station 58,"Dublin Street 58, Dublin 4",53.344,-6.266,20,40560,8.5,11.5,0.88
+59,Station 59,"Dublin Street 59, Dublin 2",53.3551,-6.2352,30,30524,23.7,6.3,0.56
+60,Station 60,"Dublin Street 60, Dublin 1",53.3223,-6.231,20,43278,16.5,3.5,0.53
+61,Station 61,"Dublin Street 61, Dublin 2",53.3493,-6.2366,40,42728,33.7,6.3,0.64
+62,Station 62,"Dublin Street 62, Dublin 2",53.3251,-6.2672,40,5386,15.7,24.3,0.68
+63,Station 63,"Dublin Street 63, Dublin 2",53.3306,-6.2315,33,32460,13.3,19.7,0.64
+64,Station 64,"Dublin Street 64, Dublin 2",53.3572,-6.242,50,40791,26.8,23.2,0.61
+65,Station 65,"Dublin Street 65, Dublin 8",53.3485,-6.2741,50,22887,24.5,25.5,0.84
+66,Station 66,"Dublin Street 66, Dublin 1",53.3349,-6.229,33,6902,14.6,18.4,0.35
+67,Station 67,"Dublin Street 67, Dublin 7",53.3299,-6.3042,20,15816,14.8,5.2,0.4
+68,Station 68,"Dublin Street 68, Dublin 1",53.3422,-6.257,20,13364,15.4,4.6,0.88
+69,Station 69,"Dublin Street 69, Dublin 1",53.3483,-6.3047,20,43790,16.5,3.5,0.65
+70,Station 70,"Dublin Street 70, Dublin 4",53.3544,-6.3036,24,6776,13.3,10.7,0.52
+71,Station 71,"Dublin Street 71, Dublin 8",53.3468,-6.2907,24,16909,19.3,4.7,0.74
+72,Station 72,"Dublin Street 72, Dublin 2",53.3574,-6.2586,33,29844,3.5,29.5,0.79
+73,Station 73,"Dublin Street 73, Dublin 1",53.3514,-6.2373,24,29846,8.8,15.2,0.57
+74,Station 74,"Dublin Street 74, Dublin 6",53.3239,-6.2712,33,32627,10.1,22.9,0.77
+75,Station 75,"Dublin Street 75, Dublin 8",53.3387,-6.2444,50,40351,2.9,47.1,0.68
+76,Station 76,"Dublin Street 76, Dublin 8",53.3594,-6.3011,33,27935,3.5,29.5,0.58
+77,Station 77,"Dublin Street 77, Dublin 2",53.3336,-6.2324,24,7638,21.1,2.9,0.58
+78,Station 78,"Dublin Street 78, Dublin 2",53.3276,-6.2696,33,21205,23.9,9.1,0.74
+79,Station 79,"Dublin Street 79, Dublin 6",53.3311,-6.2875,20,13272,4.4,15.6,0.64
+80,Station 80,"Dublin Street 80, Dublin 1",53.3523,-6.233,20,12496,9.6,10.4,0.61
+81,Station 81,"Dublin Street 81, Dublin 1",53.3461,-6.2613,20,29175,13.2,6.8,0.75
+82,Station 82,"Dublin Street 82, Dublin 6",53.3571,-6.2336,24,44796,5.4,18.6,0.55
+83,Station 83,"Dublin Street 83, Dublin 1",53.3394,-6.2908,33,15732,24.6,8.4,0.79
+84,Station 84,"Dublin Street 84, Dublin 4",53.3266,-6.3098,33,12084,30.0,3.0,0.43
+85,Station 85,"Dublin Street 85, Dublin 6",53.3571,-6.2393,30,29596,17.0,13.0,0.42
+86,Station 86,"Dublin Street 86, Dublin 8",53.3479,-6.2443,40,17997,16.3,23.7,0.57
+87,Station 87,"Dublin Street 87, Dublin 2",53.3487,-6.2961,30,11678,18.3,11.7,0.74
+88,Station 88,"Dublin Street 88, Dublin 1",53.3587,-6.2579,40,24764,27.1,12.9,0.8
+89,Station 89,"Dublin Street 89, Dublin 6",53.3499,-6.3049,40,42088,6.4,33.6,0.61
+90,Station 90,"Dublin Street 90, Dublin 1",53.3401,-6.2333,24,27754,17.7,6.3,0.48
+91,Station 91,"Dublin Street 91, Dublin 1",53.3584,-6.3028,24,47437,3.4,20.6,0.39
+92,Station 92,"Dublin Street 92, Dublin 6",53.3438,-6.2492,24,32528,8.8,15.2,0.69
+93,Station 93,"Dublin Street 93, Dublin 7",53.3248,-6.2299,24,46653,21.2,2.8,0.55
+94,Station 94,"Dublin Street 94, Dublin 8",53.3438,-6.2543,33,35129,27.9,5.1,0.72
+95,Station 95,"Dublin Street 95, Dublin 2",53.3433,-6.2629,30,47628,21.1,8.9,0.8
+96,Station 96,"Dublin Street 96, Dublin 6",53.3468,-6.2817,30,40269,9.0,21.0,0.61
+97,Station 97,"Dublin Street 97, Dublin 4",53.3252,-6.2519,33,43828,25.9,7.1,0.68
+98,Station 98,"Dublin Street 98, Dublin 6",53.3572,-6.2258,20,21088,6.3,13.7,0.41
+99,Station 99,"Dublin Street 99, Dublin 1",53.3448,-6.2593,20,20981,16.1,3.9,0.83
+100,Station 100,"Dublin Street 100, Dublin 4",53.3415,-6.2645,24,42345,17.0,7.0,0.78
+101,Station 101,"Dublin Street 101, Dublin 4",53.3552,-6.2309,30,26300,2.7,27.3,0.49
+102,Station 102,"Dublin Street 102, Dublin 4",53.3263,-6.235,50,18901,10.4,39.6,0.5
+103,Station 103,"Dublin Street 103, Dublin 7",53.3445,-6.2211,50,44069,14.9,35.1,0.45
+104,Station 104,"Dublin Street 104, Dublin 8",53.3203,-6.2365,30,23105,20.2,9.8,0.61
+105,Station 105,"Dublin Street 105, Dublin 1",53.3241,-6.231,30,20817,7.0,23.0,0.42
+106,Station 106,"Dublin Street 106, Dublin 4",53.3556,-6.2432,24,37019,16.4,7.6,0.61
+107,Station 107,"Dublin Street 107, Dublin 2",53.3313,-6.291,30,37166,14.4,15.6,0.55
+108,Station 108,"Dublin Street 108, Dublin 6",53.3475,-6.2332,40,6130,18.1,21.9,0.57
+109,Station 109,"Dublin Street 109, Dublin 1",53.33,-6.2283,20,25067,13.1,6.9,0.59
+110,Station 110,"Dublin Street 110, Dublin 1",53.3454,-6.2354,20,29184,12.6,7.4,0.65
+111,Station 111,"Dublin Street 111, Dublin 2",53.3333,-6.2982,30,41070,13.1,16.9,0.45
+112,Station 112,"Dublin Street 112, Dublin 7",53.3496,-6.2603,33,34736,11.6,21.4,0.82
+113,Station 113,"Dublin Street 113, Dublin 2",53.3204,-6.3032,50,17621,7.6,42.4,0.48
+114,Station 114,"Dublin Street 114, Dublin 7",53.3418,-6.2349,40,40118,13.4,26.6,0.68
+115,Station 115,"Dublin Street 115, Dublin 4",53.3259,-6.2985,30,36732,7.0,23.0,0.69
